@@ -1,6 +1,7 @@
 {
   "name": "movie-land",
   "homepage": "https://himadribh07.github.io/himadribh07/MovieLand/",
+  "private": true,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
